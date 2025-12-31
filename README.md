@@ -1,4 +1,4 @@
-# SIEM-log-analysis-lab
+
 
 # SIEM Log Analysis Home Lab (Splunk)
 
